@@ -1,0 +1,12 @@
+I'm Mohammad Salekul Islam
+Ffrom Ostad DevOpp Batch2
+
+I'm doing assignment no 2
+
+1. Jenkins Installation
+2. Authentication with GitHub
+3. Creating Pipeline Script.
+4. Configure Pipeline
+5. Build job
+6. Obserbe Build Log.
+7. Create Webhook.
